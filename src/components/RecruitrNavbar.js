@@ -75,7 +75,7 @@ function ProfileMenu() {
             size="sm"
             alt="tania andrew"
             className="border border-blue-500 p-0.5"
-            src="https://media.licdn.com/dms/image/D4D35AQFmj2cPiWui_g/profile-framedphoto-shrink_400_400/0/1689003533127?e=1689854400&v=beta&t=wqvIHTX8w11bPNcFbdYdIEyaYZvyxdouihvNWYn26cU"
+            src={require("../images/user.jpg")}
           />
           <ChevronDownIcon
             strokeWidth={2.5}

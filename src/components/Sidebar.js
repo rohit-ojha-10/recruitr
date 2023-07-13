@@ -141,7 +141,7 @@ export default function Sidebar() {
               size="lg"
               alt="tania andrew"
               className="border border-2 border-slate-50 p-0.5 mb-2 mt-2"
-              src="https://media.licdn.com/dms/image/D4D35AQFmj2cPiWui_g/profile-framedphoto-shrink_400_400/0/1689003533127?e=1689854400&v=beta&t=wqvIHTX8w11bPNcFbdYdIEyaYZvyxdouihvNWYn26cU"
+              src={require("../images/user.jpg")}
             />
 
             <div className="flex gap-2">
