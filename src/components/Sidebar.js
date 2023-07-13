@@ -10,7 +10,7 @@ import {
   Typography,
   Textarea,
 } from '@material-tailwind/react'
-import ComplexNavbar from './ComplexNavbar'
+import ComplexNavbar from './RecruitrNavbar'
 import WExpForm from './WExpForm'
 import { useState } from 'react'
 import { plus } from '../images/svgs'
